@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Refactor", "Refactor.csproj", "{D1F5EBA6-70EE-4EAF-B5DD-C97AF43D95BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RefactorTests", "..\RefactorTests\RefactorTests.csproj", "{E8C216A5-2179-4208-9E3D-B302794ACA9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1F5EBA6-70EE-4EAF-B5DD-C97AF43D95BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1F5EBA6-70EE-4EAF-B5DD-C97AF43D95BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1F5EBA6-70EE-4EAF-B5DD-C97AF43D95BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1F5EBA6-70EE-4EAF-B5DD-C97AF43D95BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8C216A5-2179-4208-9E3D-B302794ACA9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8C216A5-2179-4208-9E3D-B302794ACA9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8C216A5-2179-4208-9E3D-B302794ACA9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8C216A5-2179-4208-9E3D-B302794ACA9B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
